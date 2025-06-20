@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Bonjour et bienvenue !
 
-<!--
-**Ludo-dev-1/Ludo-dev-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Ludovic et je suis **développeur web fullstack** passionné par la création d'expériences numériques performantes et accessibles.
 
-Here are some ideas to get you started:
+🎓 Issu d'une reconversion professionnelle, j’ai suivi une formation intensive en développement web et web mobile (RNCP 37674).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Mes technos principales :
+- Frontend : **Angular**, **React**, **Tailwind CSS**
+- Backend : **Node.js**, **Express**, **PostgreSQL**
+- Autres : **JWT**, **Nodemailer**, **Stripe**, **PM2**, **Nginx**
+
+📚 Je continue à apprendre chaque jour et je suis actuellement en train d'explorer **Java** et **Spring Boot**.
+
+🔗 [Mon portfolio](https://portfolio-omega-livid-64.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/ludovic-thibaud-dev) | [Email](thibaud.ludovic@sfr.fr)
+
+---
+
+🧠 Toujours en quête de nouveaux défis et projets collaboratifs. N’hésitez pas à me contacter !
